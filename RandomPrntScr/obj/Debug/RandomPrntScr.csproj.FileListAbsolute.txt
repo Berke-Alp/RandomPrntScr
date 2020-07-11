@@ -1,0 +1,17 @@
+C:\Users\berke\source\repos\RandomPrntScr\RandomPrntScr\bin\Debug\RandomPrntScr.exe.config
+C:\Users\berke\source\repos\RandomPrntScr\RandomPrntScr\bin\Debug\RandomPrntScr.exe
+C:\Users\berke\source\repos\RandomPrntScr\RandomPrntScr\bin\Debug\RandomPrntScr.pdb
+C:\Users\berke\source\repos\RandomPrntScr\RandomPrntScr\bin\Debug\Flurl.dll
+C:\Users\berke\source\repos\RandomPrntScr\RandomPrntScr\bin\Debug\Flurl.Http.dll
+C:\Users\berke\source\repos\RandomPrntScr\RandomPrntScr\bin\Debug\HtmlAgilityPack.dll
+C:\Users\berke\source\repos\RandomPrntScr\RandomPrntScr\bin\Debug\Newtonsoft.Json.dll
+C:\Users\berke\source\repos\RandomPrntScr\RandomPrntScr\bin\Debug\Flurl.xml
+C:\Users\berke\source\repos\RandomPrntScr\RandomPrntScr\bin\Debug\Flurl.Http.xml
+C:\Users\berke\source\repos\RandomPrntScr\RandomPrntScr\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\berke\source\repos\RandomPrntScr\RandomPrntScr\bin\Debug\HtmlAgilityPack.xml
+C:\Users\berke\source\repos\RandomPrntScr\RandomPrntScr\bin\Debug\Newtonsoft.Json.xml
+C:\Users\berke\source\repos\RandomPrntScr\RandomPrntScr\obj\Debug\RandomPrntScr.csproj.CoreCompileInputs.cache
+C:\Users\berke\source\repos\RandomPrntScr\RandomPrntScr\obj\Debug\RandomPrntScr.csproj.CopyComplete
+C:\Users\berke\source\repos\RandomPrntScr\RandomPrntScr\obj\Debug\RandomPrntScr.exe
+C:\Users\berke\source\repos\RandomPrntScr\RandomPrntScr\obj\Debug\RandomPrntScr.pdb
+C:\Users\berke\source\repos\RandomPrntScr\RandomPrntScr\obj\Debug\RandomPrntScr.csprojAssemblyReference.cache
